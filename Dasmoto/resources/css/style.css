@@ -1,0 +1,40 @@
+/* style.css for Dasmoto's Arts & Crafts */
+/* Updated 08/02/2017 */
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+.header {
+  background-image: url(../../resources/img/pattern.jpeg);
+  width: 100%;
+}
+
+.header h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+.pricing {
+  font-weight: bold;
+  color: blue;
+}
